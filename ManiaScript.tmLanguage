@@ -34,7 +34,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>#\b(Include|RequireContext|Setting|Const|Extends)\b</string>
+			<string>#\b(Include|RequireContext|Setting|Const|Extends|Struct)\b</string>
 			<key>name</key>
 			<string>keyword.language.ms</string>
 		</dict>
