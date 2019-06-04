@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(break|case|continue|default|else|for|foreach|if|return|switch|switchtype|while|as|declare|persistent|yield|cloud|in|netwrite|netread|metadata)\b</string>
+			<string>\b(break|case|continue|default|else|for|foreach|if|return|switch|switchtype|while|as|declare|persistent|yield|cloud|in|netwrite|netread|metadata|dump)\b</string>
 			<key>name</key>
 			<string>keyword.control.ms</string>
 		</dict>
