@@ -86,12 +86,6 @@
 			<string>constant.numeric.ms</string>
 		</dict>
 		<dict>
-			<key>match</key>
-			<string>\bUI[a-zA-Z]*?\b</string>
-			<key>name</key>
-			<string>storage.type.ms</string>
-		</dict>
-		<dict>
 			<key>begin</key>
 			<string>"""</string>
 			<key>beginCaptures</key>
