@@ -165,7 +165,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(\.(count|sort|sortreverse|sortkey|sortkeyreverse|add|addfirst|remove|removekey|exists|existskey|keyof|clear|containsonly|containsoneof|slice))?\b</string>
+			<string>\b(\.(count|sort|sortreverse|sortkey|sortkeyreverse|add|addfirst|remove|removekey|exists|existskey|keyof|clear|containsonly|containsoneof|slice|fromjson|tojson))?\b</string>
 			<key>name</key>
 			<string>entity.name.function.c</string>
 		</dict>
